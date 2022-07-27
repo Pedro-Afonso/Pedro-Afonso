@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![My Language Summary](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Afonso&layout=compact&theme=dracula&count_private=true)
+![My Commit graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pedro-Afonso&theme=dracula&count_private=true)
