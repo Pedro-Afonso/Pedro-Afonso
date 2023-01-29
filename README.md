@@ -17,21 +17,15 @@ Here are some ideas to get you started:
 
 ![My Banner](https://camo.githubusercontent.com/5dc6ee33381917e41fc9c4951799268998f11a9b864399bf79a0842e4f9b194d/68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966)
 
-
 # 💫 :
-- 🔭
-- 🌱 
-- 👯
-- 🤔 
-- 💬 
-- 📫 
-- ⚡
+- 🔭 Atualmente estou procurando trabalhar como desenvolvedor front-end
+- 🌱 No momento estou aprendendo a usar as tecnologias do Next.js
 
 ## 💁Portofólio
 
+Você acessar o meu portfólio para ver os meus projetos mais recentes: [Link do meu portfólio](https://pedro-afonso-portfolio.netlify.app/pagina-inicial)
 
 ## 🌐
-
 
 <p align="center">
   <a href="https://github.com/pedroafonso">
