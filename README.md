@@ -30,7 +30,7 @@ Você acessar o meu portfólio para ver os meus projetos mais recentes: [Link do
 <p align="center">
   <a href="https://github.com/pedroafonso">
     <p align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Afonso&layout=compact&theme=dracula&count_private=true" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Pedro-Afonso&layout=compact&theme=dracula&count_private=true" />
       <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width='30%'  />
     </p>
   </a>
